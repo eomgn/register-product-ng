@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img alt="imagem do Projeto" src="./src/assets/rmd.png" width="100%">
+  <img alt="imagem do Projeto" src="gt.png" width="100%">
 </p>
 
 ---
