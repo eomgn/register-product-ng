@@ -1,0 +1,23 @@
+form {
+  padding: 0 6em;
+  margin-top: 2em;
+}
+
+.preco {
+  width: 8em;
+  margin: 0 6em;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-column-nome,
+.mat-column-id {
+  text-align: center;
+}
+
+.mat-column-preco,
+.mat-column-acoes {
+  text-align: right;
+}
